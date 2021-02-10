@@ -4,3 +4,21 @@
     margin-right: auto;
     width: 50%;
   }
+
+  .p {
+    color: darkred;
+    font-weight: bold;
+    font-size: medium;
+  }
+
+  body {
+    background-color: #030101;
+  }
+
+  h1 {
+    color: white;
+  }
+
+  h3 {
+    color: #7C1414;
+  }
